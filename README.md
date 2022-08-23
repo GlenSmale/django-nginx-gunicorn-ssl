@@ -1,2 +1,2 @@
 # django-nginx-gunicorn-ssl
-Django Nginx Gunicorn SSL Rewrite Project Settings
+These are Django project server configuration settings for Ubuntu server, running Nginx and Gunicorn with SSL Redirect to naked domain.
